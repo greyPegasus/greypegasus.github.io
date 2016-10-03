@@ -1,27 +1,27 @@
 /**
  * VERSION: 1.4.5
  * DATE: 2013-10-17
- * 
+ *
  * @author: mediacreed, mediacreed.com
  **/
 
  /* start GENERAL CUSTOMIZATION PROPERTIES */
-var templateBaseURL         = "null";/*"http://themes.mediacreed.com/html/synergy/"*/
+var templateBaseURL         = "http://greypegasus.com/";/*"http://themes.mediacreed.com/html/synergy/"*/
 var themeColor              = "#d00355";
 var menuActive              = true;
-var menuHoverActive         = true; /* it will change to false if menuActive == true. If 'menuActive' 
-                                        is false and this true than on hover it will show the menu */ 
-var menuTextOutColor        = "#777777"; 
- 
+var menuHoverActive         = true; /* it will change to false if menuActive == true. If 'menuActive'
+                                        is false and this true than on hover it will show the menu */
+var menuTextOutColor        = "#777777";
+
 var customPageStart         = false;
-var customPageStartURL      = "#portfolio.html"; 
+var customPageStartURL      = "#portfolio.html";
 var customPageStartSide     = "none";
 var customPageStartType     = "full_width_gallery";
 
 var phpUrlPath              = "php/contact_synergy.php";
 var contactFormDemo         = true; /* SET IT TO FALSE FOR CONTACT FORM TO WORK */
- /* end   GENERAL CUSTOMIZATION PROPERTIES */ 
- 
+ /* end   GENERAL CUSTOMIZATION PROPERTIES */
+
 
 /* start ready function */
 var menuTextOverColor       = "#FFFFFF"; /*change it when you use WHITE as theme color */
